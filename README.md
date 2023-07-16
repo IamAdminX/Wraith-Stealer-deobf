@@ -1,4 +1,4 @@
 # Wraith-Stealer-deobf
-bro $olar is an idiot
-Prolly no webhooks work in there but the main one was "hook"
-This is skidded from Creal stealer smh
+###### $olar cant code and is skidding imagine 
+### Prolly no webhooks work in there but the main one was "hook"
+###### This is skidded from Creal stealer smh
